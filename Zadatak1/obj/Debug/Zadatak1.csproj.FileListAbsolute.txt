@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\ucenik\Desktop\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\ucenik\Desktop\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\ucenik\Desktop\Zadatak1\obj\Debug\Zadatak1.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\Zadatak1\obj\Debug\Zadatak1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\Zadatak1\obj\Debug\Zadatak1.Form1.resources
+C:\Users\ucenik\Desktop\Zadatak1\obj\Debug\Zadatak1.Properties.Resources.resources
+C:\Users\ucenik\Desktop\Zadatak1\obj\Debug\Zadatak1.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\ucenik\Desktop\Zadatak1\obj\Debug\Zadatak1.pdb
