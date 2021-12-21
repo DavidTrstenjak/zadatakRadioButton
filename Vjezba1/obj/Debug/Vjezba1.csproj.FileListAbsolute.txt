@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Vjezba1\bin\Debug\Vjezba1.exe.config
+C:\Users\ucenik\source\repos\Vjezba1\bin\Debug\Vjezba1.exe
+C:\Users\ucenik\source\repos\Vjezba1\bin\Debug\Vjezba1.pdb
+C:\Users\ucenik\source\repos\Vjezba1\obj\Debug\Vjezba1.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Vjezba1\obj\Debug\Vjezba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Vjezba1\obj\Debug\Vjezba1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Vjezba1\obj\Debug\Vjezba1.exe
+C:\Users\ucenik\source\repos\Vjezba1\obj\Debug\Vjezba1.pdb
